@@ -1,0 +1,3 @@
+create sbt projects from templates: 
+http://www.foundweekends.org/giter8/setup.html
+
